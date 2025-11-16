@@ -1,3 +1,6 @@
+#@author: Mohammad E. Heravifard
+#Supervisor: Prof. Parviz Ghadimi
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -166,3 +169,4 @@ plt.grid(True)
 # Depth is negative downward; if you want oceanographic style (0 at top):
 # plt.gca().invert_yaxis()
 plt.show()
+
