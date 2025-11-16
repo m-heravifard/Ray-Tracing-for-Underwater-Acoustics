@@ -187,3 +187,4 @@ plt.axhline(cfg.z_surface, ls="--", lw=1, alpha=0.6)
 plt.axhline(cfg.z_bottom, ls="--", lw=1, alpha=0.6)
 plt.tight_layout()
 plt.show()
+
